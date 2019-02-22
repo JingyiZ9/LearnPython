@@ -1,3 +1,4 @@
 git is a distributed version control system.
 git is free software
-gti is a free software.
+git is a free software.
+this is the first day to learn how to use git.ß
